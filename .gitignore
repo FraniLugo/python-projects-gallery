@@ -1,0 +1,28 @@
+# Compiled Python files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual Environment
+venv/
+.env/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# VSCode and PyCharm
+.vscode/
+.idea/
+
+# MacOS
+.DS_Store
+# Flask or Django Secret Keys
+*.env
+*.key
+
+# Heroku
+*.log
+# Logs and debug files
+*.log
+
+# Node modules (if using JS/React for the front-end)
+node_modules/

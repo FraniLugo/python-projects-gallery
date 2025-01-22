@@ -1,1 +1,6 @@
-
+Portfolio/
+  ├── beginner_projects/
+  ├── intermediate_projects/
+  ├── advanced_projects/
+  ├── images/ (for screenshots)
+  └── README.md
